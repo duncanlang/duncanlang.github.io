@@ -9,6 +9,10 @@
           {
             "version": "2.0.1",
             "update_link": "https://github.com/duncanlang/Wikidata-Checker/releases/download/v2.0.1/Letterboxd-WikiData-Report-v2.0.1.xpi"
+          },
+          {
+            "version": "2.1.0",
+            "update_link": "https://github.com/duncanlang/Wikidata-Checker/releases/download/v2.1.0/Letterboxd-WikiData-Report-v2.1.0.xpi"
           }
         ]
       }
